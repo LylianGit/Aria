@@ -1,0 +1,15 @@
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\CalculCaracteristiquesAria.csproj.AssemblyReference.cache
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\CalculCaracteristiquesAria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\CalculCaracteristiquesAria.AssemblyInfoInputs.cache
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\CalculCaracteristiquesAria.AssemblyInfo.cs
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\CalculCaracteristiquesAria.csproj.CoreCompileInputs.cache
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\bin\Debug\net6.0\CalculCaracteristiquesAria.exe
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\bin\Debug\net6.0\CalculCaracteristiquesAria.deps.json
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\bin\Debug\net6.0\CalculCaracteristiquesAria.runtimeconfig.json
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\bin\Debug\net6.0\CalculCaracteristiquesAria.dll
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\bin\Debug\net6.0\CalculCaracteristiquesAria.pdb
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\CalculCaracteristiquesAria.dll
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\refint\CalculCaracteristiquesAria.dll
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\CalculCaracteristiquesAria.pdb
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\CalculCaracteristiquesAria.genruntimeconfig.cache
+C:\Users\lylia\source\repos\CalculCaracteristiquesAria\CalculCaracteristiquesAria\obj\Debug\net6.0\ref\CalculCaracteristiquesAria.dll
